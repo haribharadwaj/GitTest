@@ -1,0 +1,4 @@
+Hello! This is some text file!
+This is the second line.
+
+This is the 4th line.
